@@ -1,2 +1,2 @@
 # iktprojekt
-Ikt-s csapatmunka
+Ikt-s kavézó
