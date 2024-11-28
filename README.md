@@ -1,0 +1,2 @@
+# iktprojekt
+Ikt-s csapatmunka
